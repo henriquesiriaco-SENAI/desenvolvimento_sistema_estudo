@@ -17,7 +17,7 @@ elif media >= 5:
 else:
     resultado = ("Reprovado, mais sorte na proxima vez")
 
-print(f"E o reusltado foi.........")
+print("E o reusltado foi.........")
 time.sleep(2)
 print(f'vejamos, sua media foi: {media}')
 time.sleep(2)
